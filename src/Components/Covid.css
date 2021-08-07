@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parent1{
+    background-color: #030303;
+    width: 100vw;
+    height: 100vh;
+}
+h2{
+    color: rgb(236, 240, 236);
+    text-align: center;
+    margin-top: 20px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+  
+}
+.parent{
+    margin-left: 250px;
+    margin-top: 30px;
+    position: relative;
+    margin-top: 0px;
+    width: 1215px;
+    overflow: hidden;
+
+}
+.card{
+    margin-top: 50px;
+    width: 372px;
+    height: 200px;
+    margin-bottom: 20px;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+.card_main{
+    /* display: inline; */
+}
+
+.card_inner1{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(79, 65, 204);
+    text-align: center;
+    /* margin-left: 80px; */
+    
+}
+.card_inner2{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(37, 255, 8);
+    text-align: center;
+    /* margin-left: 70px; */
+    
+}
+.card_inner3{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(240, 118, 3);
+    text-align: center;
+    /* margin-right: 80px; */
+}
+.card_inner4{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(240, 3, 3);
+    text-align: center;
+    /* margin-left: 80px; */
+}
+.card_inner5{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(182, 179, 31);
+    text-align: center;
+    /* margin-left: 70px; */
+    
+}
+.card_inner6{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(1, 122, 158);
+    text-align: center;
+    
+}
+
+.card_name{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+.card_name span{
+    font-size: 15px;
+}
+.card_small{
+    margin-top: 28px;
+font-size: 33px;
+text-align: center;
+align-items: center;
+color: white;
+font-weight: 800;
+text-shadow: 10px 12px 22px  #030303;
+border: none;
+outline: none;
+}
