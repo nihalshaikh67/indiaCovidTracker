@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/indiaCovidTracker/static/css/main.b5088444.chunk.css",
+    "main.js": "/indiaCovidTracker/static/js/main.2f8ac171.chunk.js",
+    "main.js.map": "/indiaCovidTracker/static/js/main.2f8ac171.chunk.js.map",
+    "runtime-main.js": "/indiaCovidTracker/static/js/runtime-main.2388389e.js",
+    "runtime-main.js.map": "/indiaCovidTracker/static/js/runtime-main.2388389e.js.map",
+    "static/js/2.6007ea16.chunk.js": "/indiaCovidTracker/static/js/2.6007ea16.chunk.js",
+    "static/js/2.6007ea16.chunk.js.map": "/indiaCovidTracker/static/js/2.6007ea16.chunk.js.map",
+    "index.html": "/indiaCovidTracker/index.html",
+    "static/css/main.b5088444.chunk.css.map": "/indiaCovidTracker/static/css/main.b5088444.chunk.css.map",
+    "static/js/2.6007ea16.chunk.js.LICENSE.txt": "/indiaCovidTracker/static/js/2.6007ea16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2388389e.js",
+    "static/js/2.6007ea16.chunk.js",
+    "static/css/main.b5088444.chunk.css",
+    "static/js/main.2f8ac171.chunk.js"
+  ]
+}
